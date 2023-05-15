@@ -11,3 +11,31 @@
 +defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
 +defaults/win-64::wheel-0.38.4-py38haa95532_0
 # update specs: ['python==3.8']
+==> 2023-05-15 13:33:56 <==
+# cmd: C:\Users\Lenovo\anaconda3\Scripts\conda-script.py install -c conda-forge xgboost
+# conda version: 23.1.0
+-defaults/win-64::ca-certificates-2023.01.10-haa95532_0
+-defaults/win-64::openssl-1.1.1t-h2bbff1b_0
++conda-forge/noarch::joblib-1.2.0-pyhd8ed1ab_0
++conda-forge/win-64::_py-xgboost-mutex-2.0-cpu_0
++conda-forge/win-64::ca-certificates-2023.5.7-h56e8100_0
++conda-forge/win-64::intel-openmp-2023.1.0-h57928b3_46319
++conda-forge/win-64::libblas-3.9.0-8_mkl
++conda-forge/win-64::libcblas-3.9.0-8_mkl
++conda-forge/win-64::liblapack-3.9.0-8_mkl
++conda-forge/win-64::m2w64-gcc-libgfortran-5.3.0-6
++conda-forge/win-64::m2w64-gcc-libs-5.3.0-7
++conda-forge/win-64::m2w64-gcc-libs-core-5.3.0-7
++conda-forge/win-64::m2w64-gmp-6.1.0-2
++conda-forge/win-64::m2w64-libwinpthread-git-5.0.0.4634.697f757-2
++conda-forge/win-64::mkl-2020.4-hb70f87d_311
++conda-forge/win-64::msys2-conda-epoch-20160418-1
++conda-forge/win-64::numpy-1.22.3-py38h1d2777f_2
++conda-forge/win-64::openssl-1.1.1l-h8ffe710_0
++conda-forge/win-64::python_abi-3.8-2_cp38
++conda-forge/win-64::scikit-learn-0.22.1-py38h7208079_1
++conda-forge/win-64::scipy-1.8.1-py38h4990095_2
++defaults/win-64::libxgboost-1.7.3-hd77b12b_0
++defaults/win-64::py-xgboost-1.7.3-py38haa95532_0
++defaults/win-64::xgboost-1.7.3-py38haa95532_0
+# update specs: ['xgboost']
